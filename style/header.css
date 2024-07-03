@@ -17,7 +17,6 @@
     display: inline-block;
     background-repeat: no-repeat;
     background-position: center;
-
 }
 
 .container__imagem{
@@ -32,6 +31,10 @@
 
 .container__botao:checked~.lista-menu{
     display: block;
+}
+
+.lista-menu__titulo{
+    color: var(--laranja);
 }
 
 
