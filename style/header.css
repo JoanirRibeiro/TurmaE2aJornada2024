@@ -17,6 +17,7 @@
     display: inline-block;
     background-repeat: no-repeat;
     background-position: center;
+    padding: 1em;
 }
 
 .container__imagem{
