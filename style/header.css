@@ -118,4 +118,12 @@
         color: var(--preto);
     }
 
+    .cabecalho{
+        padding: 0 2em;
+    }
+
+    .opcoes{
+        margin-right: auto;
+    }
+
 }
