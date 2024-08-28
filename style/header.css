@@ -111,7 +111,7 @@
     }
 }
 
-@media screen and (min-width: 1050px) {
+@media screen and (min-width: 1000px) {
 
     .container__texto{
         display: block;
