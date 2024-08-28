@@ -73,6 +73,7 @@
         font-size: 30px;
         font-weight: 400;
         display: block;
+        padding: 1em;
     }
     .container__titulo--negrito{
         font-weight: 700;
